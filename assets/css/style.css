@@ -1,0 +1,228 @@
+
+a{
+    color: #fff;
+    font-family: arial;
+    font-size:30px;
+   text-decoration: none;
+}
+
+a:hover{
+    color: #ff6b08
+}
+
+.links{
+    background-image: url("assets/img/topP.png");
+    text-align: right;
+    padding-right: 70px;
+    padding-bottom: 20px;
+    background-color: rgba(0, 102, 255, .9);
+    word-spacing: 35px
+}
+
+.toppage{
+    background: #ff0026;
+    color: #fff;
+    width: 450px;
+    height: 150px;
+    border-radius: 35px;
+    margin-bottom: 5%;
+    margin-left: 3%;
+    margin-top: 200px;
+}
+
+.toppage .name{
+    font-family: britannic bold;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+.toppage .web{
+    font-family: arial;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.about{
+    background: rgba(0, 102, 255, 0.5);
+    color: #5eff59;
+    border-radius: 35px;
+    min-width: 500px;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: 30px;
+    margin-bottom: 200px
+}
+
+.am{
+    padding-right: 30px;
+    padding-top: 10px;
+    font-family: britannic bold;
+    font-size: 50px;
+    text-align: right
+}
+
+.me{
+    font-family: arial;
+    font-size: 20px;
+    color: #ff6b00;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    text-align: justify;
+}
+
+.mission{
+    background: rgba(94, 255, 89, 0.75);
+    color: #ff6b00;
+    border-radius: 35px;
+    min-width: 500px;
+    max-width: 50%;
+    margin-right: auto;
+    margin-left: 30px;
+    margin-bottom: 200px;
+
+}
+
+.mi{
+    font-family: britannic bold;
+    font-size: 50px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.on{
+    color: #06f;
+    font-family: arial;
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px
+}
+
+.portfolio{
+    background: rgba(255, 255, 0, .7);
+    height: 600px;
+    padding-top: 5px;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-radius: 30px;
+    min-width: 600px;
+}
+
+.port{
+    font-family:  britannic bold;
+    font-size: 60px;
+    color: #ff0026;
+    text-align: center;
+    margin-top:30px;
+    text-decoration: underline;
+}
+
+.ppic img{
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.contact{
+    background-color: #06f;
+    width: 200px;
+    text-align: center;
+    border-radius: 50px;
+    margin: auto
+    /*center this button*/
+}
+/*CONTACT PAGE*/
+.container{
+    max-height: 1000px;
+
+}
+
+.col1{
+    width: 40%;
+    height: auto;
+    float: right;
+}
+.col2{
+    width: 50%;
+    height: 50%;
+    float: right;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+.contactme{
+    font-family: britannic bold;
+    color: #06f;
+    font-size: 30px;
+
+}
+
+.fn{
+    font-family: britannic bold;
+    font-size: 30px;
+    color: #ff0026
+}
+
+.urname{
+    margin-bottom: 5px;
+
+}
+
+.email{
+    font-family: britannic bold;
+    font-size: 30px;
+    color: #ff0026;
+    margin-bottom: -5px
+
+}
+
+.mess{
+    font-family: britannic bold;
+    color: #ff0026;
+    font-size: 30px;
+    margin-bottom: 300px
+}
+
+.map{
+    float: right;
+    margin-top: 53px;
+    
+        
+
+}
+
+.moli{
+    text-align: right;
+    font-family: arial;
+    font-size: 60px;
+    background-color: rgba(255, 255, 0, .8);
+    padding-right: 70px;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+input[type=text] {
+    padding: 10px;
+    width: 300px
+}
+
+input[type=email] {
+    padding: 10px;
+    width: 300px
+}
+
+textarea {
+    width: 300px;
+    padding: 40px
+}
+
+.myinfo {
+    margin-left: 125px;
+    font-family: arial;
+    color: #ff0026;
+    font-weight: bold;
+}
